@@ -11,6 +11,7 @@ This project lets users perform basic arithmetic operations in a clean and intui
 ✔️ Built with simple web technologies (no dependencies)
 
 📁 Project Structure
+
 calculator/
 ├── index.html         # Main HTML page
 ├── style.css          # Stylesheet
@@ -18,10 +19,10 @@ calculator/
 └── README.md          # Project documentation
 
 🛠️ Technologies Used
-Technology	Purpose
-HTML	Structure of the calculator
-CSS	Styling & responsive layout
-JavaScript	Calculator logic & interactions
+
+HTML -- Structure of the calculator
+CSS -- Styling & responsive layout
+JavaScript -- Calculator logic & interactions
 
 💡 How It Works
 
