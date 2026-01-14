@@ -34,9 +34,6 @@ Pressing C clears the display and resets the calculator
 📌 Usage
 
 Use your mouse or keyboard to enter numbers
-
 Click the operators to perform calculations
-
 = shows the result
-
 C resets the calculator
