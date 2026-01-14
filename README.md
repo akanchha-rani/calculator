@@ -16,3 +16,9 @@ calculator/
 ├── style.css          # Stylesheet
 ├── script.js          # JavaScript logic
 └── README.md          # Project documentation
+
+🛠️ Technologies Used
+Technology	Purpose
+HTML	Structure of the calculator
+CSS	Styling & responsive layout
+JavaScript	Calculator logic & interactions
