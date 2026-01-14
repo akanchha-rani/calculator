@@ -18,6 +18,7 @@ Built with simple web technologies (no dependencies)
 📁 Project Structure
 
 calculator/
+
 ├── index.html         # Main HTML page
 
 ├── style.css          # Stylesheet
