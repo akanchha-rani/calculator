@@ -9,3 +9,10 @@ This project lets users perform basic arithmetic operations in a clean and intui
 ✔️ Clear (C) button to reset your input
 ✔️ Responsive layout for desktop & mobile
 ✔️ Built with simple web technologies (no dependencies)
+
+📁 Project Structure
+calculator/
+├── index.html         # Main HTML page
+├── style.css          # Stylesheet
+├── script.js          # JavaScript logic
+└── README.md          # Project documentation
