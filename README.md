@@ -26,11 +26,8 @@ JavaScript	Calculator logic & interactions
 💡 How It Works
 
 Clicking numbers builds the current expression
-
 Operators (+, −, ×, ÷) apply arithmetic operations
-
 Result is shown when pressing equals (=)
-
 Pressing C clears the display and resets the calculator
 
 
