@@ -1,10 +1,10 @@
-📱 Calculator Web App
+## 📱 Calculator Web App
 
 A simple and responsive Calculator Web Application built using HTML, CSS & JavaScript.
 This project lets users perform basic arithmetic operations in a clean and intuitive interface.
 
 
-🧠 Features
+## 🧠 Features
 
 Perform basic calculations: addition, subtraction, multiplication & division
 
@@ -15,7 +15,7 @@ Responsive layout for desktop & mobile
 Built with simple web technologies (no dependencies)
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 calculator/
 
@@ -28,7 +28,7 @@ calculator/
 └── README.md          # Project documentation
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML -- Structure of the calculator
 
@@ -37,7 +37,7 @@ CSS -- Styling & responsive layout
 JavaScript -- Calculator logic & interactions
 
 
-💡 How It Works
+## 💡 How It Works
 
 Clicking numbers builds the current expression
 
@@ -48,7 +48,7 @@ Result is shown when pressing equals (=)
 Pressing C clears the display and resets the calculator
 
 
-📌 Usage
+## 📌 Usage
 
 Use your mouse or keyboard to enter numbers
 
